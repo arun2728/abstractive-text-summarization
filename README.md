@@ -130,12 +130,6 @@ More details can be found [here.](https://www.analyticsvidhya.com/blog/2019/06/u
 
 ## Performance Evaluation Metrics
 
-The taxonomy of summary evaluation measures can be found in the figure below. Text quality is often assessed by human annotators. They assign a value from a predefined scale to each summary. The main approach for summary quality determination is the intrinsic content evaluation which is often done by comparison with an ideal summary.
-
-<p align="center"> 
-  <img src="https://github.com/arun2728/Abstractive-Text-Summarization/blob/main/download.jpg" alt="Transformer"/> 
-</p>
-
 In the scope of this experiment, we have adopted only content-based methods to measure the performance. Method used is:
 
 **Rouge Score:** ROUGE stands for Recall-Oriented Understudy for Gisting Evaluation. It is essentially a set of metrics for evaluating automatic summarisation of texts as well as machine translation. It works by comparing an automatically produced summary or translation against a set of reference summaries (typically human-produced). <br>

@@ -74,8 +74,7 @@ Naturally abstractive approaches are harder. For a perfect abstractive summary, 
 
 ### Objective
 
-The primary objective of this experiment is to deploy advanced NLP techniques to generate grammatically correct and insightful summaries for a given articles. To accomplish this, we will test various publicly available transformer models for seq-to-seq modelling and retrain them on the wikihow dataset.
-
+The primary objective of this project is to deploy advanced NLP techniques to generate grammatically correct and insightful summaries for a given article. To accomplish this, we will test various publicly available transformer models for seq-to-seq modeling and retrain them on the wikiHow dataset.
 
 ### Dataset
 
